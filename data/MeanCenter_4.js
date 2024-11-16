@@ -1,0 +1,1 @@
+var json_MeanCenter_4 = {"type":"FeatureCollection","name":"MeanCenter_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MEAN_X":639402.33675999998,"MEAN_Y":2493299.9811399998},"geometry":{"type":"Point","coordinates":[88.355633753171333,22.540617488259947]}}]}
